@@ -1,4 +1,4 @@
-# hexschool_hw06 
+# hexschool_hw06 test page
 1. /dist/index.html    
 2. /dist/product.html  
 
